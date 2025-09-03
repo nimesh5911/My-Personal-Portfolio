@@ -156,7 +156,7 @@
 
 /* Subtitle */
 .hero .subtitle {
-    font-size: clamp(3rem, 3vw, 2rem);
+    font-size: clamp(2rem, 3vw, 2rem);
     margin-bottom: 1.5rem;
     opacity: 0;
     color: rgba(255, 255, 255, 0.9);
@@ -643,4 +643,5 @@
             background: linear-gradient(45deg, #6B73FF, #9b59b6);
             border-radius: 4px;
         }
+
 
